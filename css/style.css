@@ -69,7 +69,7 @@
 .dirt:after {
   display: block;
   content: "";
-  background-image: url(/svg/dirt.svg);
+  background-image: url(../svg/dirt.svg);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -80,7 +80,7 @@
 }
 
 .mole {
-  background: url(/svg/mole.svg) bottom center no-repeat;
+  background: url(../svg/mole.svg) bottom center no-repeat;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom;
